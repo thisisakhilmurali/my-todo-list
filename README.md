@@ -1,3 +1,1 @@
-# MyTodoList
-
-### Simple TODO application in Angular
+# Simple ToDo List in Angular
